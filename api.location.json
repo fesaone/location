@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Toko 1",
+    "lat": -6.914966,
+    "lng": 107.6440801,
+    "nama": "Toko Siti"
+  },
+  {
+    "name": "Toko 2",
+    "lat": -6.9177864,
+    "lng": 107.6446153,
+    "nama": "Toko Rudi"
+  },
+  {
+    "name": "Toko 3",
+    "lat": -6.918238,
+    "lng": 107.639752,
+    "nama": "Toko Ali"
+  },
+  {
+    "name": "Toko 4",
+    "lat": -6.918354,
+    "lng": 107.631651,
+    "nama": "Toko Budi"
+  },
+  {
+    "name": "Toko 5",
+    "lat": -6.908579,
+    "lng": 107.635786,
+    "nama": "Toko Dian"
+  },
+  {
+    "name": "Toko 6",
+    "lat": -6.912345,
+    "lng": 107.643210,
+    "nama": "Toko Eka"
+  },
+  {
+    "name": "Toko 7",
+    "lat": -6.911111,
+    "lng": 107.641111,
+    "nama": "Toko Fajar"
+  }
+]

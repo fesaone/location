@@ -1,0 +1,30 @@
+:root {
+  --font-size-small: 1rem;
+  --font-size-medium: 1.2rem;
+  --font-size-large: 1.4rem;
+  --font-size-xlarge: 1.6rem;
+}
+
+body {
+  font-size: var(--font-size-small);
+}
+
+@media (min-width: 576px) {
+  :root {
+    --font-size-small: 1.2rem;
+    --font-size-medium: 1.4rem;
+    --font-size-large: 1.6rem;
+    --font-size-xlarge: 1.8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  :root {
+    --font-size-small: 1.4rem;
+    --font-size-medium: 1.6rem;
+    --font-size-large: 1.8rem;
+    --font-size-xlarge: 2rem;
+  }
+}
+
+/* Tambahkan media query sesuai kebutuhan Anda */
