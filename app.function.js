@@ -1,4 +1,4 @@
-fetch('https://cdn.jsdelivr.net/gh/fesaone/location@main/api.location.json')
+fetch('https://raw.githubusercontent.com/fesaone/location/main/api.location.json')
 .then(response => response.json())
 .then(data => {
   var tokoData = data;
