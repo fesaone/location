@@ -5,5 +5,5 @@ var appElement = document.getElementById("app");
     appElement.appendChild(leafletScript);
 
     var appScript = document.createElement('script');
-    appScript.src = 'https://cdn.jsdelivr.net/gh/fesaone/location@main/app.function.js';
+    appScript.src = 'https://cdn.jsdelivr.net/gh/fesaone/location/script.js';
     appElement.appendChild(appScript);
